@@ -1,4 +1,4 @@
-Marche sur p5.js ;)
+//Marche sur p5.js ;)
 
 let plantGroup;
 let lifeSpan = 600;
